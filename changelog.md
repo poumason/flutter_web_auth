@@ -1,3 +1,33 @@
+## 0.2.4
+
+- 🐛 Fix building on iOS ([#36](https://github.com/LinusU/flutter_web_auth/pull/36))
+
+## 0.2.3
+
+- 🐛 Remove NoHistory flag ([#33](https://github.com/LinusU/flutter_web_auth/pull/33))
+- 🐛 Fix building on iOS 8, 9, and 10 ([#29](https://github.com/LinusU/flutter_web_auth/pull/29))
+- 🐛 Always terminate 'authenticate' callbacks on Android ([#28](https://github.com/LinusU/flutter_web_auth/pull/28))
+
+## 0.2.2
+
+- 🐛 Fix propagation of "CANCELED" error on iOS ([#31](https://github.com/LinusU/flutter_web_auth/pull/31))
+
+## 0.2.1
+
+- 🐛 Fix AndroidX build issues ([#27](https://github.com/LinusU/flutter_web_auth/pull/27))
+
+## 0.2.0
+
+- 💥 Add macOS support ([#20](https://github.com/LinusU/flutter_web_auth/pull/20))
+
+  Migration guide:
+
+  This version drops support for Flutter 1.9 and older, please upgrade to Flutter 1.12 for continued support.
+
+## 0.1.3
+
+- 🎉 Update the kotlin plugin version to 1.3.61
+
 ## 0.1.2
 
 - 🎉 Add support for iOS 13
